@@ -3,7 +3,7 @@
 ## 📖 Overview
 
 This project — **Bank System & Currency Exchange (OOP)** — is a **continuation** and **expansion** of the previous project:  
-🧩 *Project 12 – Bank System (OOP)*  
+🧩 *Project 3 – Bank System (OOP)*  
 
 It integrates a **mini Currency Exchange System** within the main **Bank System**, proving that even **large-scale software** is just a combination of **small, well-structured subsystems**.  
 
