@@ -172,5 +172,5 @@ and that’s the **true power of OOP** 💪
 ---
 
 ## 💻 GitHub Repository  
-🔗 [github.com/github.com/Aymane-Lazaar/Project-4-Currency-Exchange-oop_](https://github.com/Aymane-Lazaar/Project-4-Currency-Exchange-oop_)
+🔗 [github.com/github.com/Aymane-Lazaar/Project-4-Currency-Exchange-oop_](https://github.com/Aymane-Lazaar/Project-4-Currency-Exchange-oop)
 
